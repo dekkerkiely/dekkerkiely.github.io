@@ -1,10 +1,10 @@
 main:
- - title: "Home"
+  - title: "Home"
     url: /
   - title: "About"
     url: /about/
-  - title: "Trip Reports"
-    url: /trip-reports/
+  - title: "Trips"
+    url: /trips/
   - title: "Projects"
     url: /projects/
   - title: "Gallery"
