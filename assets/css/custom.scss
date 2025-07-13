@@ -1,0 +1,25 @@
+---
+---
+
+img {
+  border-radius: 10px;
+}
+
+.align-left {
+  float: left;
+  margin-right: 20px;
+  width: 40%;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.gallery-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
