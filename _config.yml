@@ -106,23 +106,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-sass:
-  style: compressed
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
       custom_css:
         - /assets/css/custom.scss
-
-
