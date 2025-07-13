@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Welcome to Dekker Kiely"
+title: "Home"
 permalink: /
 author_profile: false
 header:
