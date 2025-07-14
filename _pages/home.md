@@ -17,7 +17,7 @@ excerpt: "Sharing my trips, projects, and photography — all in one place."
 
 Read about my cycling, climbing, and travel adventures.  
 [**Read more →**](/trips/)  
-![Trips Preview](/assets/images/trip-preview.jpg)
+![Trips Preview](/assets/IMG_6364.png)
 
 ---
 
