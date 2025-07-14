@@ -17,7 +17,7 @@ excerpt: "Sharing my trips, projects, and photography."
 
 Read about my cycling, climbing, and travel adventures.  
 [**Read more →**](/trips/)  
-![Trips Preview](/assets/IMG_810.png)
+![Trips Preview](/assets/IMG_810.jpeg)
 
 ---
 
@@ -33,5 +33,5 @@ Mechanical design and engineering projects I’ve worked on.
 
 A visual collection of moments I’ve captured.  
 [**Explore Gallery →**](/gallery/)  
-![Gallery Preview](/assets/IMG_6364.png)
+![Gallery Preview](/assets/IMG_6364.jpeg)
 
