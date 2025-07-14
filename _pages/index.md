@@ -10,7 +10,7 @@ header:
   actions:
     - label: "About Me"
       url: "/about/"
-excerpt: "Sharing my trips, projects, and photography — all in one place."
+excerpt: "Sharing my trips, projects, and photography."
 ---
 
 ## 🚴 Trips
