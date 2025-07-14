@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: false
 header:
-  overlay_image: /assets/images/projects-hero.jpg  # Replace with your actual hero image
+  overlay_image: /assets/IMG_8101.png  # Replace with your actual hero image
   overlay_filter: "0.3"
   caption: "About"
 ---
