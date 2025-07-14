@@ -3,6 +3,10 @@ layout: page
 title: "About"
 permalink: /about/
 author_profile: false
+header:
+  overlay_image: /assets/images/projects-hero.jpg  # Replace with your actual hero image
+  overlay_filter: "0.3"
+  caption: "About"
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 2rem;">
