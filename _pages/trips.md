@@ -4,7 +4,7 @@ title: "Trips"
 permalink: /trips/
 author_profile: false
 header:
-  overlay_image: /assets/images/trip-hero.jpg  # Replace with your actual hero image
+  overlay_image: /assets/IMG_6364.png  # Replace with your actual hero image
   overlay_filter: "0.3"
   caption: "Trip Reports"
 search: true
