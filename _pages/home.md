@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Home"
-permalink: /home/
+permalink: /
 author_profile: false
 header:
   overlay_color: "#000"
