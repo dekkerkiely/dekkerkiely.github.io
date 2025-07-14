@@ -1,9 +1,40 @@
-/* General image styling */
+/* ---------------------------------------
+   Hero Banner Styling (Header Banners)
+------------------------------------------ */
+.page__hero--overlay {
+  min-height: 600px !important; /* Match Home banner height */
+  background-size: cover;
+  background-position: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.page__hero--overlay .wrapper {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead,
+.page__hero--overlay .btn {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* ---------------------------------------
+   General Image Styling
+------------------------------------------ */
 img {
   border-radius: 10px;
 }
 
-/* Float image left for About page */
+/* ---------------------------------------
+   About Page Image on the Side
+------------------------------------------ */
 .align-left {
   float: left;
   margin-right: 20px;
@@ -12,7 +43,9 @@ img {
   border-radius: 10px;
 }
 
-/* Gallery layout */
+/* ---------------------------------------
+   Gallery Grid Layout
+------------------------------------------ */
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -27,7 +60,9 @@ img {
   border-radius: 8px;
 }
 
-/* Trip and Project preview cards */
+/* ---------------------------------------
+   Trip and Project Previews
+------------------------------------------ */
 .trip-preview img,
 .project-preview img {
   width: 100%;
@@ -36,28 +71,12 @@ img {
   border-radius: 10px;
 }
 
-/* Match hero section height with home page */
-.page__hero--overlay {
-  min-height: 600px;
-}
-
-/* Optional: Adjust text spacing (line height & word spacing) */
+/* ---------------------------------------
+   General Content Styling
+------------------------------------------ */
 .page__content {
   line-height: 1.8;
   word-spacing: 1px;
 }
 
-/* Optional: Center text inside hero if you want more emphasis */
-.page__hero--overlay .wrapper {
-  text-align: center;
-}
-
-.page__hero--overlay .page__title,
-.page__hero--overlay .page__lead,
-.page__hero--overlay .btn {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
 
