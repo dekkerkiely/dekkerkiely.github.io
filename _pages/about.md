@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_image: /assets/images/projects-hero.jpg  # Replace with your actual hero image
+  overlay_filter: "0.3"
+  caption: "About"
 ---
 
 ![Dekker climbing](/assets/IMG_0253.png){: .align-left }
