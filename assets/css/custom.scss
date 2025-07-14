@@ -33,3 +33,7 @@ img {
   object-fit: cover;
   border-radius: 10px;
 }
+
+.page__hero--overlay {
+  min-height: 600px; /* or whatever matches the Home banner */
+}
