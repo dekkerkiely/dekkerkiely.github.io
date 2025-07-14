@@ -42,11 +42,11 @@ author_profile: false
     <p class="gallery-caption">Climbing in Devils Canyon (Photo: Kathleen Kiely)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/IMG_1623" alt="Wadi">
+    <img src="/assets/IMG_1623.jpeg" alt="Wadi">
     <p class="gallery-caption">Warming up before Touring in Chic Chocs, Quebec (Photo: Jacob Orser)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/IMG_1135" alt="Central Tower of Paine">
+    <img src="/assets/IMG_1135.jpeg" alt="Central Tower of Paine">
     <p class="gallery-caption">Pausing in valley of Panorama ridge, British Columbia (Photo: Dekker Kiely)</p>
   </div>
   <div class="gallery-item">
