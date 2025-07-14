@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/IMG_6308.png
+  overlay_image: /assets/IMG_0253.png
   actions:
     - label: "About Me"
       url: "/about/"
@@ -17,7 +17,7 @@ excerpt: "Sharing my trips, projects, and photography — all in one place."
 
 Read about my cycling, climbing, and travel adventures.  
 [**Read more →**](/trips/)  
-![Trips Preview](/assets/IMG_6364.png)
+![Trips Preview](/assets/IMG_810.png)
 
 ---
 
@@ -25,7 +25,7 @@ Read about my cycling, climbing, and travel adventures.
 
 Mechanical design and engineering projects I’ve worked on.  
 [**See Projects →**](/projects/)  
-![Projects Preview](/assets/images/project-preview.jpg)
+![Projects Preview](/assets/513c165751eef94f8c951c082a7a5213-beige-engineering-background-design.webp)
 
 ---
 
@@ -33,5 +33,5 @@ Mechanical design and engineering projects I’ve worked on.
 
 A visual collection of moments I’ve captured.  
 [**Explore Gallery →**](/gallery/)  
-![Gallery Preview](/assets/images/gallery-preview.jpg)
+![Gallery Preview](/assets/IMG_6364.png)
 
