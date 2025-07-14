@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Trip Reports"
+title: "Trips"
 permalink: /trips/
 author_profile: false
 header:
