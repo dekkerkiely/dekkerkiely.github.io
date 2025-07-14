@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Gallery"
 permalink: /gallery/
 author_profile: false
@@ -9,6 +9,7 @@ author_profile: false
 .gallery-grid {
   column-count: 3;
   column-gap: 1em;
+  padding: 2em;
 }
 .gallery-item {
   break-inside: avoid;
