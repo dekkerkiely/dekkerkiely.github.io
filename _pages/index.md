@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/IMG_0253.png
+  overlay_image: /assets/IMG_6308.jpeg
   actions:
     - label: "About Me"
       url: "/about/"
