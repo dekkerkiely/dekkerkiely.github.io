@@ -20,10 +20,10 @@ search: true
 
   <!-- Trip 1 -->
   <div class="trip-card" style="max-width: 300px;">
-    <img src="/assets/images/elchalten.jpg" alt="El Chaltén" style="width:100%; height:auto;">
-    <h4 style="margin: 0.5em 0 0 0;">December 2024 to February 2025</h4>
-    <h2 style="margin: 0;">El Chaltén ’24/’25</h2>
-    <p>I left El Chaltén in 2022 knowing that I would not be back the following year...<br><a href="/trips/el-chalten-2025/">Read More</a></p>
+    <img src="/assets/images/elchalten.jpg" alt="Italy" style="width:100%; height:auto;">
+    <h2 style="margin: 0;">Bikepacking Lake Garda</h2>
+    <h4 style="margin: 0.5em 0 0 0;">August 2023</h4>
+    <p>I left my bag at the nicest hotel i could find..<br><a href="/trips/el-chalten-2025/">Read More</a></p>
   </div>
 
   <!-- Trip 2 -->
