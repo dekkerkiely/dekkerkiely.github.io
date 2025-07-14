@@ -34,23 +34,23 @@ author_profile: false
 
 <div class="gallery-grid">
   <div class="gallery-item">
-    <img src="/assets/images/gallery1.jpg" alt="Aguja Bifida">
-    <p class="gallery-caption">Near the summit of Aguja Bifida; Chaltén Massif, Argentina (Photo: Ty Lekki)</p>
+    <img src="/assets/IMG_2118.jpeg" alt="Aguja Bifida">
+    <p class="gallery-caption">Climbing Atman in Red Rock, Nevada. (Photo: Simon Berth)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/gallery2.jpg" alt="Golden Gate Traverse">
-    <p class="gallery-caption">The A5 Traverse on Golden Gate, El Capitan, Yosemite (Photo: Felipe Nordenflycht)</p>
+    <img src="/assets/IMG_0904.jpeg" alt="Golden Gate Traverse">
+    <p class="gallery-caption">Climbing in Devils Canyon (Photo: Kathleen Kiely)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/gallery3.jpg" alt="Wadi Rum">
-    <p class="gallery-caption">Descending through The Eye of Allah; Wadi Rum, Jordan (Photo: Tyler Karow)</p>
+    <img src="/assets/IMG_1623" alt="Wadi">
+    <p class="gallery-caption">Warming up before Touring in Chic Chocs, Quebec (Photo: Jacob Orser)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/gallery4.jpg" alt="Central Tower of Paine">
-    <p class="gallery-caption">On the summit of the Central Tower of Paine, Chile (Photo: Ismael Araneda)</p>
+    <img src="/assets/IMG_1135" alt="Central Tower of Paine">
+    <p class="gallery-caption">Pausing in valley of Panorama ridge, British Columbia (Photo: Dekker Kiely)</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/gallery5.jpg" alt="Ten Sleep Climbing">
-    <p class="gallery-caption">Sport climbing in Ten Sleep, Wyoming (Photo: Jeff Dunbar)</p>
+    <img src="/assets/IMG_1034.jpeg" alt="Ten Sleep Climbing">
+    <p class="gallery-caption">Afternoon in Smith Rocks (Photo: Johnathan Morrrison)</p>
   </div>
 </div>
