@@ -2,13 +2,18 @@
    Hero Banner Styling (Header Banners)
 ------------------------------------------ */
 .page__hero--overlay {
-  min-height: 600px !important; /* Match Home banner height */
-  background-size: cover;
-  background-position: center bottom;
+  min-height: 600px !important;
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
+/* Fix background positioning for splash/header banners */
+.page__hero {
+  background-position: center bottom !important;  /* try center top or center center if you want to shift it */
+  background-size: cover !important;
+}
+
+/* Center all text inside the hero banner */
 .page__hero--overlay .wrapper {
   text-align: center;
   max-width: 1200px;
@@ -78,5 +83,4 @@ img {
   line-height: 1.8;
   word-spacing: 1px;
 }
-
 
