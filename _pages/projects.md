@@ -6,7 +6,6 @@ author_profile: false
 header:
   overlay_image: /assets/513c165751eef94f8c951c082a7a5213-beige-engineering-background-design.webp  # Replace with your actual hero image
   overlay_filter: "0.3"
-  caption: "Engineering Projects"
 search: true
 ---
 
