@@ -9,7 +9,7 @@
 
 /* Fix background positioning for splash/header banners */
 .page__hero {
-  background-position: center bottom !important;  /* try center top or center center if you want to shift it */
+  background-position: center top !important;  /* try center top or center center if you want to shift it */
   background-size: cover !important;
 }
 
