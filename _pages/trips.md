@@ -28,7 +28,7 @@ search: true
   <!-- Trip 2 -->
   <div class="trip-card" style="max-width: 300px;">
     <img src="/assets/images/cerro-torre.jpg" alt="Rumney" style="width:100%; height:auto;">
-    <h4 style="margin: 0.5em 0 0 0;">December 2024</h4>
+    <h4 style="margin: 0.5em 0 0 0;">August 2023</h4>
     <h2 style="margin: 0;">A week in Chamonix</h2>
     <p>I heard about chamonix through my sister, who vistied this tourist destination with her exchange partner/ longtime friend Lison. I saw pictures and videos everywhere of people climbing these sharp snowy peaks...<br><a href="/trips/cerro-torre/">Read More</a></p>
   </div>
@@ -36,7 +36,7 @@ search: true
   <!-- Trip 3 -->
   <div class="trip-card" style="max-width: 300px;">
     <img src="/assets/images/yosemite.jpg" alt="Yosemite" style="width:100%; height:auto;">
-    <h4 style="margin: 0.5em 0 0 0;">October 2023</h4>
+    <h4 style="margin: 0.5em 0 0 0;">August 2022</h4>
     <h2 style="margin: 0;">Road Trip Across Midwest</h2>
     <p>I need to be back at school the 5th of september with 21 days to burn...<br><a href="/trips/yosemite-triple-crown/">Read More</a></p>
   </div>
