@@ -27,18 +27,18 @@ search: true
 
   <!-- Trip 2 -->
   <div class="trip-card" style="max-width: 300px;">
-    <img src="/assets/images/cerro-torre.jpg" alt="Cerro Torre" style="width:100%; height:auto;">
+    <img src="/assets/images/cerro-torre.jpg" alt="Rumney" style="width:100%; height:auto;">
     <h4 style="margin: 0.5em 0 0 0;">December 2024</h4>
-    <h2 style="margin: 0;">Southeast Ridge of Cerro Torre</h2>
-    <p>I first heard about the Southeast Ridge back in 2017 after hearing Hayden Kennedy’s iconic Enormocast interview...<br><a href="/trips/cerro-torre/">Read More</a></p>
+    <h2 style="margin: 0;">A week in Chamonix</h2>
+    <p>I heard about chamonix through my sister, who vistied this tourist destination with her exchange partner/ longtime friend Lison. I saw pictures and videos everywhere of people climbing these sharp snowy peaks...<br><a href="/trips/cerro-torre/">Read More</a></p>
   </div>
 
   <!-- Trip 3 -->
   <div class="trip-card" style="max-width: 300px;">
     <img src="/assets/images/yosemite.jpg" alt="Yosemite" style="width:100%; height:auto;">
     <h4 style="margin: 0.5em 0 0 0;">October 2023</h4>
-    <h2 style="margin: 0;">The Yosemite Triple Crown</h2>
-    <p>The Yosemite Triple Crown links the 3 most prominent big walls in the valley...<br><a href="/trips/yosemite-triple-crown/">Read More</a></p>
+    <h2 style="margin: 0;">Road Trip Across Midwest</h2>
+    <p>I need to be back at school the 5th of september with 21 days to burn...<br><a href="/trips/yosemite-triple-crown/">Read More</a></p>
   </div>
 
 </div>
