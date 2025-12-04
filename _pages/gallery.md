@@ -74,4 +74,23 @@ author_profile: false
   <div class="gallery-item">
   <img src="/assets/IMG_1199.jpeg" alt="Wadi">
     <p class="gallery-caption">The canyon below while belaying on Cat in the hat. (Photo: Dekker Kiely)</p
-    
+ </div>
+  <div class="gallery-item">
+  <img src="/IMG_20220812_153816.jpeg" alt="Wadi">
+    <p class="gallery-caption">Another day in Squamish (Photo: Unknown)</p
+
+   </div>
+  <div class="gallery-item">
+  <img src="/IMG_2256.jpeg" alt="Wadi">
+    <p class="gallery-caption">Devils Tower sunset in August (Photo: Dekker Kiely)</p
+     </div>
+  <div class="gallery-item">
+  <img src="/IMG_810.png
+" alt="Wadi">
+    <p class="gallery-caption"> Coastal climbing in Acadia National Park(Photo: SC)</p  
+     </div>
+  <div class="gallery-item">
+  <img src="/IMG_6364.png" alt="Wadi">
+    <p class="gallery-caption"> Hostels stays in light of what's ahead tommorrow. Chamonix, France (Photo: Dekker Kiely)</p  
+  
+  
