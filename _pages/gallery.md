@@ -54,5 +54,24 @@ author_profile: false
     <p class="gallery-caption">Afternoon in Smith Rocks (Photo: Johnathan Morrrison)</p>
   </div>
   <div class="gallery-item">
-  <img src="/assets/IMG_1623.jpeg" alt="Wadi">
+  <img src="/assets/0D4AD19E-5681-4924-B5A2-56101B99EF38.jpeg" alt="Wadi">
     <p class="gallery-caption">Climbing Caustic Cock in Red Rock (Photo: Caleb Mazurkiewicz)</p
+
+  </div>
+  <div class="gallery-item">
+  <img src="/assets/11EFDE36-5C07-47F6-AAA1-8DF2D8A287E5_1_105_c.jpeg" alt="Wadi">
+    <p class="gallery-caption">Kalymnos Island, Greece (Photo: Dekker Kiely)</p
+ </div>
+  <div class="gallery-item">
+  <img src="/assets/FE718B4B-C6A7-48CB-A558-E998B162ADF8_1_105_c.jpeg" alt="Wadi">
+    <p class="gallery-caption">Day 4 Hiking Mount Kiliamjaro (Photo: Dekker Kiely)</p
+ </div>
+  <div class="gallery-item">
+  <img src="/assets/IMG_0872.jpeg" alt="Wadi">
+    <p class="gallery-caption">Camping in the Dolomites (Photo: Jonathan Morrison)</p
+    
+ </div>
+  <div class="gallery-item">
+  <img src="/assets/IMG_1199.jpeg" alt="Wadi">
+    <p class="gallery-caption">The canyon below while belaying on Cat in the hat. (Photo: Dekker Kiely)</p
+    
