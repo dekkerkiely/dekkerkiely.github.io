@@ -53,4 +53,6 @@ author_profile: false
     <img src="/assets/IMG_1034.jpeg" alt="Ten Sleep Climbing">
     <p class="gallery-caption">Afternoon in Smith Rocks (Photo: Johnathan Morrrison)</p>
   </div>
-</div>
+  <div class="gallery-item">
+  <img src="/assets/IMG_1623.jpeg" alt="Wadi">
+    <p class="gallery-caption">Climbing Caustic Cock in Red Rock (Photo: Caleb Mazurkiewicz)</p
