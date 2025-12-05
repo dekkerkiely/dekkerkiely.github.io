@@ -22,7 +22,7 @@ search: true
     <img src="/assets/images/elchalten.jpg" alt="Italy" style="width:100%; height:auto;">
     <h2 style="margin: 0;">Bikepacking Lake Garda</h2>
     <h4 style="margin: 0.5em 0 0 0;">August 2023</h4>
-    <p>I left my bag at the nicest hotel i could find..<br><a href="/trips/el-chalten-2025/">Read More</a></p>
+    <p>I left my bag at the nicest hotel i could find..<br><a href="/trips/Lake-Garda-Bikepacking-2023/">Read More</a></p>
   </div>
 
   <!-- Trip 2 -->
